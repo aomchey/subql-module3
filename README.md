@@ -1,5 +1,6 @@
 # SubQuery - Starter Package
-
+OUTPUT : ##
+![Screenshot 2021-12-15 081350](https://user-images.githubusercontent.com/32266753/146107801-e259f01f-4f32-47c9-9e8a-1bdb6cb03a18.png)
 
 The Starter Package is an example that you can use as a starting point for developing your SubQuery project.
 A SubQuery package defines which data The SubQuery will index from the Substrate blockchain, and how it will store it. 
